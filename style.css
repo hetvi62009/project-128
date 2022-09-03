@@ -1,0 +1,23 @@
+body{
+    background-color: greenyellow;
+    
+}
+#update span{
+    font-size: medium;
+    margin-left: 50px;
+
+}
+#update time limit{
+    font-size:medium;
+    float:right;
+    margin-right:50px;
+
+
+}
+#update sketch{
+    color:hotpink;
+}
+canvas{
+    background-color: white;
+    float:centre;
+}
